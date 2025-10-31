@@ -1,4 +1,5 @@
 # Manufacturing-Defect-Prediction-ML-model
+Link to colab notebook Unsupervised_Learning_Manufacturing_Defects_Project_Zvomuya.ipynb
 Understanding clusters in formation of manufacturing defects
 
 <img src='Correlation Matrix.png' width=400> 
